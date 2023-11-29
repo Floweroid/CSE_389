@@ -1,0 +1,18 @@
+菜品
+
+    name 菜名 string
+
+    link 链接 string
+
+    stuff 材料 string
+
+    tools 工具 stuff
+
+    *tags 标签
+    *method 方法
+    *difficulty 难度
+
+食材
+    name    string
+    emoji   string
+    *alias   string

@@ -1,0 +1,14 @@
+
+add models
+
+    design commercial model
+
+    design python models class
+
+    registry the model in the admin
+
+    develop the serializers in the serializer class
+
+    develop the viewset in the views
+
+    include the viewset in the urls with proper route
